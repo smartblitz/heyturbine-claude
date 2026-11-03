@@ -1,0 +1,20 @@
+{
+  "name": "heyturbine",
+  "version": "1.0.0",
+  "description": "Ask about your brand's HeyTurbine research and growth plan, plan content from it, and check your videos, connected accounts and post performance.",
+  "author": {
+    "name": "Turbine",
+    "url": "https://www.heyturbine.com"
+  },
+  "homepage": "https://www.heyturbine.com",
+  "repository": "https://github.com/smartblitz/heyturbine-claude",
+  "license": "MIT",
+  "keywords": [
+    "brand",
+    "marketing",
+    "growth plan",
+    "content planning",
+    "social media",
+    "research"
+  ]
+}

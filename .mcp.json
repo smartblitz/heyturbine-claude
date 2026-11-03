@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "heyturbine": {
+      "type": "http",
+      "url": "https://api.heyturbine.com/claude/mcp"
+    }
+  }
+}
